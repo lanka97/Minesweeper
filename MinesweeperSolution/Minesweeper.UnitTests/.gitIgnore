@@ -1,0 +1,14 @@
+TestResult.xml
+
+TestResult/
+TestResults/
+
+_ReSharper*/
+
+coverage*/
+
+.vscode/
+
+mono_crash.*
+
+*.nunit

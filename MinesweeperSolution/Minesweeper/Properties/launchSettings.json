@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Minesweeper": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
